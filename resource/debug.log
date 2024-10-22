@@ -1,0 +1,26 @@
+Thu, 05 Sep 2024 09:59:46 root INFO Create date_index dictionary from index 2755 to 5761
+Thu, 05 Sep 2024 10:06:40 root INFO Downloading the latest file with date: 20240904 and URL index: 5761
+Thu, 05 Sep 2024 10:09:49 root INFO Automation program started.
+Thu, 05 Sep 2024 10:10:07 root INFO Downloading the latest file with date: 20240904 and URL index: 5761
+Thu, 05 Sep 2024 10:10:26 root INFO Automation program ended.
+Thu, 05 Sep 2024 10:11:03 root INFO Downloading history for date: 20201231 ...
+Thu, 05 Sep 2024 10:27:39 root INFO Downloading the latest file with date: 20240904 and URL index: 5761
+Thu, 05 Sep 2024 10:30:20 root INFO Automation program started.
+Thu, 05 Sep 2024 10:31:10 root INFO Downloading the latest file with date: 20240904 and URL index: 5761
+Thu, 05 Sep 2024 10:32:13 root INFO Re-downloading the files for date 20240829 with index url 5757 successfully! 
+Thu, 05 Sep 2024 10:32:38 root INFO Automation program ended.
+Thu, 05 Sep 2024 10:35:02 root ERROR 20001231 is not in date_index_dict, please check: '20001231'
+Thu, 05 Sep 2024 10:35:20 root ERROR 20100101 is not in date_index_dict, please check: '20100101'
+Thu, 05 Sep 2024 10:35:34 root INFO Downloading history for date: 20190101 ...
+Thu, 05 Sep 2024 10:46:47 root INFO Automation program started.
+Thu, 05 Sep 2024 10:47:07 root INFO Re-downloading the files for date 20240828 with index url 5756 successfully! 
+Thu, 05 Sep 2024 10:47:18 root INFO Automation program ended.
+Thu, 05 Sep 2024 10:48:52 root INFO Downloading the latest file with date: 20240904 and URL index: 5761
+Thu, 05 Sep 2024 17:45:35 root INFO Downloading history for date: 20200101 ...
+Thu, 05 Sep 2024 17:46:45 root INFO Automation program started.
+Thu, 05 Sep 2024 17:47:29 root INFO Automation program ended.
+Thu, 05 Sep 2024 17:48:35 root INFO Downloading the latest file with date: 20240904 and URL index: 5761
+Thu, 05 Sep 2024 17:58:59 root INFO All data for 20200101 have already been downloaded.
+Thu, 05 Sep 2024 17:59:06 root ERROR 20200102 is not in date_index_dict, please check: invalid syntax (<string>, line 0)
+Thu, 05 Sep 2024 18:00:24 root ERROR 20200102 is not in date_index_dict, please check: '20200102'
+Thu, 05 Sep 2024 18:01:35 root INFO Downloading history for date: 20200102 ...
